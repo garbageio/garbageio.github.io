@@ -1,7 +1,7 @@
-name: Pumpkin lemma
+name: Grammi e Bigrammi
 description: "Computer science blog"
 baseurl: ""
-url: "https://pumpkinlemma.github.io/"
+url: "https://grammiebigrammi.github.io/"
 download: "#"
 social:
   github: pumpkinlemma
