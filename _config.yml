@@ -1,0 +1,66 @@
+name: Pumpkin lemma
+description: "Computer science blog"
+baseurl: ""
+url: "https://pumpkinlemma.github.io/"
+download: "#"
+social:
+  github: pumpkinlemma
+  email: lemmapumpkin@gmail.com
+  facebook: 
+  twitter: /
+  instagram:
+  tumblr:
+  slack: /
+
+author:
+  name: 
+  bio: 
+  email: 
+  image: 
+  github: 
+  facebook: 
+  twitter: 
+  instagram:
+  tumblr:
+  show_on_post: false
+
+permalink: /:categories/:title/
+sass:
+  style: compressed
+paginate: 5
+paginate_path: "/:num/"
+markdown: kramdown
+
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - CNAME
+  - vendor
+
+# settings
+mathjax: true
+google_analytics: UA-116667626-1
+
+
+defaults:
+- scope:
+    path: ''
+    type: authors
+  values:
+    permalink: /blog/authors/:title/
+    layout: author
+    twitter: 
+
+collections:
+  authors:
+    title: Authors
+    output: true
