@@ -1,11 +1,11 @@
 ---
-title: Linus Maximus
+title: Chris
 
-name: Linus Maximus
+name: Chris
 
-image: /assets/images/author.jpg
+image: /assets/images/chris.jpg
 link: "http://github.com"
-github: pumpkinlemma
+github: garbageio
 facebook: 
 twitter: 
 linkedin: /

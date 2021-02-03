@@ -1,9 +1,9 @@
 ---
-title: Linus Pinus
+title: Luke
 
-name: Linus Pinus
+name: Luke
 
-image: /assets/images/author.jpg
+image: /assets/images/luke.jpg
 link: "http://github.com"
 github: pumpkinlemma
 facebook: /
