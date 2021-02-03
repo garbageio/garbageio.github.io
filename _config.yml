@@ -1,7 +1,7 @@
-name: Get fit or die training
+name: GarbageIO
 description: "Computer science blog"
 baseurl: ""
-url: "https://getfitordietraining.github.io/"
+url: "https://garbageio.github.io/"
 download: "#"
 social:
   github: pumpkinlemma
