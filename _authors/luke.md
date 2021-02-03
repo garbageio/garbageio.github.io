@@ -5,7 +5,7 @@ name: Luke
 
 image: /assets/images/luke.jpg
 link: "http://github.com"
-github: pumpkinlemma
+github: garbageio
 facebook: /
 twitter: /
 linkedin: 

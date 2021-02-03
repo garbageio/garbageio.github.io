@@ -1,11 +1,11 @@
 ---
-title: Linus Pinuss
+title: Erdos
 
-name: Linus Pinuss
+name: Erdos
 
-image: /assets/images/author.jpg
+image: /assets/images/erdos.jpg
 link: "http://github.com"
-github: pumpkinlemma
+github: garbageio
 facebook: /
 twitter: /
 linkedin: /
