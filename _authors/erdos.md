@@ -6,7 +6,7 @@ name: Erdos
 image: /assets/images/erdos.jpg
 link: "http://github.com"
 github: ErdosEuge
-facebook: 
+facebook: profile.php?id=100010311006105
 twitter: Erdos10515900
 linkedin: eugenio-andreose-a65005152
 stackoverflow: users/14321812/erdos
