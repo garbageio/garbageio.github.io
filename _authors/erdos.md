@@ -10,7 +10,7 @@ facebook: https://www.facebook.com/profile.php?id=100010311006105
 twitter: https://twitter.com/Erdos10515900
 linkedin: https://www.linkedin.com/in/eugenio-andreose-a65005152/
 stackoverflow: https://stackoverflow.com/users/14321812/erdos
-instagram: /erdos_euge/
+instagram: erdos_euge/
  
 bio: short bio
 ---
