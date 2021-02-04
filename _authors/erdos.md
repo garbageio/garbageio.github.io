@@ -12,7 +12,7 @@ linkedin: eugenio-andreose-a65005152
 stackoverflow: users/14321812/erdos
 instagram: erdos_euge
  
-bio: Data Scientist / Statistician / Drug Dealer, interested in: Machine Learning / Artificial Intelligence / Your mom 
+bio: Data Scientist / Statistician / Drug Dealer, interested in Machine Learning / Artificial Intelligence / Your mom 
 ---
 
 vilipendium
